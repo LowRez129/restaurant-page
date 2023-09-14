@@ -1,10 +1,10 @@
-function homePage() {
+function menuPage() {
     const div = document.createElement('div');
     const content = document.querySelector('#content');
 
     content.lastChild.remove();
-    div.innerHTML = "homepage";
+    div.innerHTML = "menupage";
     content.append(div);
 }
 
-export default homePage;
+export default menuPage;
