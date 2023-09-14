@@ -1,1 +1,1 @@
-console.log("Trinkets Pale of Moon");
+(()=>{"use strict";console.log("Trinkets Pale of Moon"),console.log("homepage")})();
